@@ -1,0 +1,13 @@
+1. Instalar los complementos que permiten visualizar markdown en VisualStudio Code
+2. Descargar los archivos anexos y guardarlos en una carpeta
+3. Realizar una función que tome los datos de los archivos CVS y los convierta en Dataframes.  Documentar la función markdown
+4. Realizar una función que calcule el flujo de carga DC, partiendo de los respectivos Dataframes.  Documentar la función markdown
+5. Realizar una función que calcule contingencias N-1.  Hacer un escalafón de la más a la menos crítica. Documentar la función markdown
+
+Recomendaciones para documentar las funciones:
+1. Describir cuál es el propósito de la función
+2. Describir entradas y salidas
+3. Mostrar un pequeño ejemplo de uso
+
+Asumir 1/x *0.8
+Nodo slack nodo 1
